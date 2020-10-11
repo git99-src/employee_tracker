@@ -1,0 +1,25 @@
+{
+  "name": "employee_tracker",
+  "version": "1.0.0",
+  "description": "This application will allow a business owner to view and manage the departments, roles and employees within the organization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git99-src/employee_tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "mysql": "^2.18.1"
+  },
+  "bugs": {
+    "url": "https://github.com/git99-src/employee_tracker/issues"
+  },
+  "homepage": "https://github.com/git99-src/employee_tracker#readme"
+}
