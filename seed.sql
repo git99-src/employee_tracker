@@ -1,4 +1,3 @@
- USE employee_db;
   -- seed department --
 INSERT INTO department (dept_name) VALUES ("Sales");
 INSERT INTO department (dept_name) VALUES ("Engineering");

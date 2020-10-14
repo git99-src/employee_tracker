@@ -1,7 +1,7 @@
 # employee_tracker
 
 Walkthrough video:
-
+https://drive.google.com/file/d/1WrXwmREhknffVZSd2HdHq48V-47U8cek/view?usp=sharing
 
 
 ## Description 
